@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF49C0FD-E424-44D8-BC47-5D99F0D4D0D2}|..\\LAB0501\\LAB0501.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0501\\LAB0501.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC8F768-8D58-4460-81F2-DF5A418B995F}|..\\LAB0503\\LAB0503.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0503\\LAB0503.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C529749-9CBC-4F67-BF3A-07B0E90A2D4F}|..\\LAB0502\\LAB0502.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0502\\LAB0502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB0501.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0501\\LAB0501.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0501\\LAB0501.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0501\\LAB0501.cpp",
+              "RelativeToolTip": "..\\LAB0501\\LAB0501.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:52:43.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB0502.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0502\\LAB0502.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0502\\LAB0502.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0502\\LAB0502.cpp",
+              "RelativeToolTip": "..\\LAB0502\\LAB0502.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:21:48.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB0503.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0503\\LAB0503.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0503\\LAB0503.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0503\\LAB0503.cpp",
+              "RelativeToolTip": "..\\LAB0503\\LAB0503.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:40:13.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

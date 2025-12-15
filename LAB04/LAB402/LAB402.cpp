@@ -1,4 +1,4 @@
-#include <iostream> 
+#include <iostream>
 #include <string>
 
 using namespace std;
@@ -6,32 +6,10 @@ using namespace std;
 int main()
 
 {
-    cout << "start for ----  \n";
-    for (int i = 1 ;
-        i < 11;
-        i++)
-    {
-        cout <<i << "\n";
-    }
+	for (int i = 20; i >= 0; i = i - 2)
 
-    cout << " start while---- \n"; 
-    int j = 1;
-    while (j < 11)
-    {
-        cout << j << "\n";
-        j++; 
-    }
+		cout << i << "\n";
 
-    cout << " ---- start do while ----  \n";
+	return 0;
 
-    int k = 1;
-    do
-    {
-        cout << k << "\n";
-        k++; 
-
-    } while (k < 11);
-
-
-    return 1;
 }

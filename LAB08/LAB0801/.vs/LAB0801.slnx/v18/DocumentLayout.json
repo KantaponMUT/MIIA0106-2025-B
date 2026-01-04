@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0801\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC84D390-FE1F-4E74-836F-1A96F80F6BF9}|LAB0801.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0801\\LAB0801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC84D390-FE1F-4E74-836F-1A96F80F6BF9}|LAB0801.vcxproj|solutionrelative:LAB0801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBDF712-988B-419D-8E75-F2677195020F}|..\\LAB0806\\LAB0806.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0806\\LAB0806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03105A10-C389-427C-AD59-AE832A48CB31}|..\\LAB0805\\LAB0805.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0805\\LAB0805.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8FE940-EBCA-425C-85E4-453EDA1D4378}|..\\LAB0804\\LAB0804.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0804\\LAB0804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191DAC9-E496-4C14-B64A-39292CC078AB}|..\\LAB0802\\LAB0802.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0802\\LAB0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63030F1-E83F-48C8-820A-DA80784A7C14}|..\\LAB0803\\LAB0803.vcxproj|C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0803\\LAB0803.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB0806.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0806\\LAB0806.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0806\\LAB0806.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0806\\LAB0806.cpp",
+              "RelativeToolTip": "..\\LAB0806\\LAB0806.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T10:02:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB0805.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0805\\LAB0805.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0805\\LAB0805.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0805\\LAB0805.cpp",
+              "RelativeToolTip": "..\\LAB0805\\LAB0805.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:42:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB0804.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0804\\LAB0804.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0804\\LAB0804.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0804\\LAB0804.cpp",
+              "RelativeToolTip": "..\\LAB0804\\LAB0804.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:28:40.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB0803.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0803\\LAB0803.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0803\\LAB0803.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0803\\LAB0803.cpp",
+              "RelativeToolTip": "..\\LAB0803\\LAB0803.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:15:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB0802.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0802\\LAB0802.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0802\\LAB0802.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0802\\LAB0802.cpp",
+              "RelativeToolTip": "..\\LAB0802\\LAB0802.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:02:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB0801.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0801\\LAB0801.cpp",
+              "RelativeDocumentMoniker": "LAB0801.cpp",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\Desktop\\MIIA0106-2025-B\\LAB0801\\LAB0801.cpp",
+              "RelativeToolTip": "LAB0801.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T08:47:13.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
